@@ -3,7 +3,7 @@
 
 ## Motivation
 
-The FastPostgresRedisAPI project was developed to provide an efficient and scalable solution for API development. 
+The project was developed to provide an efficient and scalable solution for API development. 
 With the growing demand for high-performance web applications, the need for frameworks that can handle large volumes
 of data quickly and reliably is crucial. This API, based on FastAPI, Postgres, and Redis, aims to meet these demands
 by providing a robust and user-friendly infrastructure for creating and managing robust backend services. 
